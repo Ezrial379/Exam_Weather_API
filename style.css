@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    background-color: #A7C6ED; /* Легкий синій */
+}
+
+input {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.weather_description {
+    color: white;
+    margin-top: 2rem;
+}
